@@ -1,0 +1,44 @@
+# PyTorch Deep Learning Course - Requirements
+# All libraries with exact versions for reproducibility
+
+# Core PyTorch Libraries
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+
+# Scientific Computing
+numpy==1.24.3
+scipy==1.11.4
+pandas==2.0.3
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# NLP & Transformers
+transformers==4.34.1
+tokenizers==0.14.1
+
+# Image Processing
+pillow==10.1.0
+
+# Jupyter Environment
+jupyter==1.0.0
+jupyterlab==4.0.9
+notebook==7.0.6
+ipython==8.16.0
+ipykernel==6.26.0
+
+# Utilities
+tqdm==4.66.1
+requests==2.31.0
+
+# Optional: For distributed training
+tensorboard==2.14.1
+
+# Optional: For model deployment
+onnx==1.15.0
+onnxruntime==1.16.3
